@@ -7,7 +7,7 @@ you need to include the API key from Web3Form.
 */
 
 
-let GeminiFlashKey='AIzaSyBSSkyzQP6RvViYM5rE0stcA1Bl4m3YX7U';
+let GeminiFlashKey='UR API KEY';
 
 //* ------------------------------------------  *
 //* ------------Template json-------------------------  *
